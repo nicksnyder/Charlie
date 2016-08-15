@@ -1,0 +1,6 @@
+framework module Pods_Charlie {
+  umbrella header "Pods-Charlie-umbrella.h"
+
+  export *
+  module * { export * }
+}

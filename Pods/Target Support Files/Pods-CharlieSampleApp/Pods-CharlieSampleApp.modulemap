@@ -1,0 +1,6 @@
+framework module Pods_CharlieSampleApp {
+  umbrella header "Pods-CharlieSampleApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
