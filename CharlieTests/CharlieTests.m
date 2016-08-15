@@ -7,7 +7,7 @@
 //
 
 #import <XCTest/XCTest.h>
-#import <Charlie/CharlieProvider.h>
+#import <Charlie/Charlie.h>
 @import Alpha;
 @import Bravo;
 
