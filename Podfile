@@ -1,4 +1,4 @@
-source 'https://github.com/nicksnyder/Specs.git'
+source 'git@github.com:nicksnyder/Specs.git'
 use_frameworks!
 
 target 'Charlie' do
