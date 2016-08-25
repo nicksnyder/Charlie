@@ -7,6 +7,13 @@ Charlie is an objective-c library that depends on two other libraries via Cocoap
 ## Guidelines
 - All guidelines documented in [Alpha](https://github.com/nicksnyder/Alpha).
 - Use `@import` instead of `#import` for external dependencies.
+
+    ```
+//  CharlieProvider.h
+@import Foundation;
+@import Alpha;
+@import Bravo;
+    ```
 - CharlieSampleApp needs to have a target dependency on Charlie library. (TODO: screenshot)
 
 ## Dependency examples
