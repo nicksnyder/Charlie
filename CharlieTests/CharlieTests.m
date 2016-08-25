@@ -8,6 +8,7 @@
 
 #import <XCTest/XCTest.h>
 #import <Charlie/Charlie.h>
+//@import Charlie; // Tests build and pass if you use this instead of the above line, but Xcode complains.
 @import Alpha;
 @import Bravo;
 

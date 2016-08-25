@@ -6,7 +6,7 @@
 //  Copyright © 2016 LinkedIn. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+@import Foundation;
 @import Alpha;
 @import Bravo;
 
